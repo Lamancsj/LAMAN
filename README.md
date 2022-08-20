@@ -1,2 +1,0 @@
-# LAMAN
-SolidWorks API 
